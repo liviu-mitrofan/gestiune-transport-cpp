@@ -1,0 +1,3 @@
+C:/Users/filip/OneDrive/Desktop/Liviu/USV/Anul 2/SEM.2/POO/GestiuneTransport/gestiune-transport-original/cmake-build-debug/CMakeFiles/gestiune-transport.dir
+C:/Users/filip/OneDrive/Desktop/Liviu/USV/Anul 2/SEM.2/POO/GestiuneTransport/gestiune-transport-original/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/filip/OneDrive/Desktop/Liviu/USV/Anul 2/SEM.2/POO/GestiuneTransport/gestiune-transport-original/cmake-build-debug/CMakeFiles/rebuild_cache.dir

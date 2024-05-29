@@ -1,0 +1,22 @@
+# ninja log v5
+3	396	7386840186070238	build.ninja	4da12c4be4a4514a
+31	1067	7381820640817435	CMakeFiles/gestiune-transport-gpt.dir/Order.cpp.obj	a6e5d62987bf20e1
+776	1351	7381820643669606	CMakeFiles/gestiune-transport-gpt.dir/Expense.cpp.obj	a5116b17353f0715
+25	814	7381820637863081	CMakeFiles/gestiune-transport-gpt.dir/Supplier.cpp.obj	cf8c32a0e9f52140
+14	775	7381820637495960	CMakeFiles/gestiune-transport-gpt.dir/Vehicle.cpp.obj	4812407b8143da87
+815	1382	7381820644018762	CMakeFiles/gestiune-transport-gpt.dir/Driver.cpp.obj	e953944fc5b9acd5
+37	834	7381820638176203	CMakeFiles/gestiune-transport-gpt.dir/Invoice.cpp.obj	47d7c9de7ebe3a7b
+20	940	7381820639585027	CMakeFiles/gestiune-transport-gpt.dir/User.cpp.obj	a944c3d5565f0356
+9	3409	7381820664180094	CMakeFiles/gestiune-transport-gpt.dir/main.cpp.obj	6a8c43280f24b293
+835	1414	7381820644345244	CMakeFiles/gestiune-transport-gpt.dir/ProjectUtils.cpp.obj	cfc0eee5bb3e7fd0
+3226	9606	7386815119777077	CMakeFiles/gestiune-transport.dir/ProjectUtils.cpp.obj	4fd51d4e42e7a97f
+79	2962	7386815053232128	CMakeFiles/gestiune-transport.dir/Supplier.cpp.obj	d1ecbac410496800
+33	3590	7386815058174811	CMakeFiles/gestiune-transport.dir/Vehicle.cpp.obj	1156937133171b33
+90	3297	7386815056589521	CMakeFiles/gestiune-transport.dir/Order.cpp.obj	5a51f1b473f8c3d
+100	3226	7386815055472278	CMakeFiles/gestiune-transport.dir/Invoice.cpp.obj	3198e73b4c312726
+42	2694	7386815050470383	CMakeFiles/gestiune-transport.dir/User.cpp.obj	f85833a9d8eacb71
+2695	5456	7386815077719479	CMakeFiles/gestiune-transport.dir/Expense.cpp.obj	2990213db5d10863
+2963	5488	7386815078677994	CMakeFiles/gestiune-transport.dir/Driver.cpp.obj	3d53af003c764ddf
+14	5323	7386815076950640	CMakeFiles/gestiune-transport.dir/main.cpp.obj	1813e5a7d3baebbc
+9606	11297	7386815136709144	gestiune-transport.exe	be554aafe88019b2
+3298	5292	7386815076612890	CMakeFiles/gestiune-transport.dir/Person.cpp.obj	2dbbfc7d6bac4e54

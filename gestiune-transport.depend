@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1716639123 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\driver.cpp
+	"Driver.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716547729 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\driver.h
+	<string>
+	<vector>
+
+1716894715 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\projectutils.h
+	<string>
+
+1716894841 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\expense.cpp
+	"Expense.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716547729 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\expense.h
+	<string>
+	<vector>
+
+1716894838 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\invoice.cpp
+	"Invoice.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716547729 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\invoice.h
+	<string>
+	<vector>
+
+1716893982 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<regex>
+	<conio.h>
+	<limits>
+	"ProjectUtils.h"
+	"User.h"
+	"Order.h"
+	"Driver.h"
+	"Expense.h"
+	"Invoice.h"
+	"Supplier.h"
+	"Vehicle.h"
+
+1716458311 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\user.h
+	<string>
+	<vector>
+	"Order.h"
+
+1716553165 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\order.h
+	<string>
+	<vector>
+
+1716547729 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\supplier.h
+	<string>
+	<vector>
+
+1716547729 c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\vehicle.h
+	<string>
+	<vector>
+
+1716894772 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\order.cpp
+	"Order.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716639034 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\supplier.cpp
+	"Supplier.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716639034 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\user.cpp
+	"User.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1716639034 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\vehicle.cpp
+	"Vehicle.h"
+	"ProjectUtils.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+
+1716893746 source:c:\users\filip\onedrive\desktop\liviu\usv\anul 2\sem.2\poo\gestiunetransport\gestiune-transport-original\projectutils.cpp
+	"ProjectUtils.h"
+	<fstream>
+	<iostream>
+	<regex>
+
